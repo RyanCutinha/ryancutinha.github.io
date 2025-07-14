@@ -1,5 +1,5 @@
 # ryancutinha.github.io
-# As a passion project, I created a robot that goes through a set of mazes and performs certain tasks after it reaches certain points. I used this robot at several competitions, including a local VEX competition. I am interested in engineering, and I felt that creating this robot would help me foster my interest in various engineering aspects.
+# As a passion project, I created a robot that navigates a set of mazes and performs specific tasks upon reaching certain points. I used this robot at several competitions, including a local VEX competition. I am interested in engineering, and I believe that creating this robot would help me develop my interest in various aspects of the field.
 <!DOCTYPE html>
 <html lang="en">
 <head>
