@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Robotron Passion Project
 description: My passion project involved building a robotic machine that can navigate through mazes and perform certain tasks. I am interested in engineering, and building this robotic machine has helped to expand my passion for engineering
+url: "https://ryancutinha.github.io"
+baseurl: "/my-passion-project"
