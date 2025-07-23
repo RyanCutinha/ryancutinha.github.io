@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Welcome!
+title: Ryan's Passion Project!
 ---
 
-# Hello, everybody!
+# Machine Design!
 
-This is my new website powered by Jekyll and the Slate theme on GitHub Pages.
+The machine is built similar to that of a car.
