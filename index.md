@@ -5,15 +5,19 @@ title: TitanBot Robotics Project!
 
 # About Me 
 
-I am a rising senior at North Creek High School interested in engineering. I built this robot as a passion project so that I could better understand the aspects of engineering, especially in robotics, and how I could use my interests in the real world. 
+I am a rising senior at North Creek High School interested in engineering. I built this robot as a passion project so that I could better understand the aspects of engineering, especially in robotics, and how I could use my interests in the real world.
+![Ryan Cutinha Image](assets/css/images/About Me Picture.JPG) 
 
 # Machine Designs
 
-The machine that I have built is a small robotic device that can move around places autonomously and with a controller. There were several designs that I used over the course of my project, and each had its pros and cons. Each design had four wheels, a base, and an arm to pick up objects as they moved around. For most of the project, I controlled the machine via joysticks that were connected to an electronic device that sent signals to the machine. Additionally, there were several sensors that I also included so that I could code the machine and move it to several positions, which allowed me to control the machine hands-free. 
+The machine that I have built is a small robotic device that can move around places autonomously and with a controller. There were several designs that I used over the course of my project, and each had its pros and cons. Each design had four wheels, a base, and an arm to pick up objects as they moved around. For most of the project, I controlled the machine via joysticks that were connected to an electronic device that sent signals to the machine. Additionally, there were several sensors that I also included so that I could code the machine and move it to several positions, which allowed me to control the machine hands-free.
+![First Machine Design](assets/css/images/Machine Designs - 1.png)
+![Second Machine Design](assets/css/images/Machine Design - 2.png) 
 
 # Current Design
 
-The current design is neat and organized with zip-wries to prevent entanglement and has an open center for easy access to parts. My machine also has a lower chassis which helps it have a lower center of mass to prevent tipping. The control hub and the expansion hub are mounted on the side of the machine so that wiring is distributed to each side. One side of the claw is opened so the linear slide doesn't need to carry a lot of weight. The camera is mounted high to see over the motor and get a better view of the signal. I have also added additional weight to the back to evenly distribute weight. 
+The current design is neat and organized with zip-wries to prevent entanglement and has an open center for easy access to parts. My machine also has a lower chassis which helps it have a lower center of mass to prevent tipping. The control hub and the expansion hub are mounted on the side of the machine so that wiring is distributed to each side. One side of the claw is opened so the linear slide doesn't need to carry a lot of weight. The camera is mounted high to see over the motor and get a better view of the signal. I have also added additional weight to the back to evenly distribute weight.
+![Current Design](assets/css/images/Current Design Picture.png) 
 
 # Software
 
