@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ryan's Passion Project!
+title: TitanBot Robotics Project!
 ---
 
 # About Me 
