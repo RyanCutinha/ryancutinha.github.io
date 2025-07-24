@@ -1,1 +1,1 @@
-# Titanbot Robotics Project
+# TitanBot Robotics Project

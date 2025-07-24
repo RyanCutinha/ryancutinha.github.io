@@ -5,7 +5,7 @@ title: TitanBot Robotics Project!
 
 # About Me 
 
-I am a rising senior at North Creek High School interested in engineering. I built this robot as a passion project so that I could better understand the aspects of engineering, especially in robotics, and how I could use my interests in the real world.
+I am a rising senior at North Creek High School interested in engineering. Some of my hobbies are building, playing sports, and reading books. I enjoy spending time outdoors, especially hiking and going to parks.
 ![Ryan Cutinha Image](/assets/css/images/About%20Me%20Picture.JPG) 
 
 # Machine Designs
