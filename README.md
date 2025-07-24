@@ -1,1 +1,1 @@
-# TitanBot passion project
+# TitanBot Robotics Project
