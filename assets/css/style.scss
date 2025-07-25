@@ -6,12 +6,18 @@ body {
   color: #333;
 }
 
-
-.my-custom-image-class {
-    max-width: 100%; 
-    height: auto; 
-    display: block; /* Centers block-level images if combined with margin: auto */
-    margin: 20px auto; /* Add vertical spacing and center */
-    border: 1px solid #303030;
-    box-shadow: 2px 2px 5px rgba(0,0,0,0.1); 
+<style>
+.full-width-image {
+    max-width: 50%;
+    height: 50%;
+    display: block;
+    margin: 0 auto 20px auto;
 }
+
+figcaption {
+    text-align: left;
+    font-style: default;
+    color: #555;
+    margin-top: 5px;
+}
+</style>
