@@ -3,14 +3,9 @@ layout: default
 title: TitanBot Robotics Project!
 ---
 
-# About Me 
-I am a rising senior at North Creek High School interested in engineering. Some of my hobbies are building, playing sports, and reading books. I enjoy spending time outdoors, especially hiking and going to parks.
-
-![Personal Image](/assets/css/images/About%20Me%20Picture.JPG){: .my-custom-image-class}
-
 # Machine Designs
 
-The machine that I have built is a small robotic device that can move around places autonomously and with a controller. There were several designs that I used over the course of my project, and each had its pros and cons. Each design had four wheels, a base, and an arm to pick up objects as they moved around. For most of the project, I controlled the machine via joysticks that were connected to an electronic device that sent signals to the machine. Additionally, there were several sensors that I also included so that I could code the machine and move it to several positions, which allowed me to control the machine hands-free.
+The machine that I have built is a small robotic device that can move around places autonomously and with a controller. There were several designs that I used over the course of my project, and each had its pros and cons. Each design had four wheels, a base, and an arm to pick up objects as they moved around. For most of the project, I controlled the machine via joysticks that were connected to an electronic device that sent signals to the machine. Additionally, there were several sensors that I also included so that I could code the machine and move it to several positions, which allowed me to control the machine hands-free. 
 
 The design of the first machine is shown below. 
 
@@ -55,5 +50,11 @@ Some of the sensors used are shown below.
 ![Drive Motor Encoder](/assets/css/images/Drive%20Metal%20Encoder.jpg){: .my-custom-image-class}
 
 ![Linear Slide Motor Encoder](/assets/css/images/Linear%20slide%20motor%20encoder.png){: .my-custom-image-class}
+
+# About Me 
+I am a rising senior at North Creek High School interested in engineering. Some of my hobbies are building, playing sports, and reading books. I enjoy spending time outdoors, especially hiking and going to parks.
+
+![Personal Image](/assets/css/images/About%20Me%20Picture.JPG){: .my-custom-image-class}
+
 
 [def]: /assets/css/images/Current%20Design%20Picture.png
