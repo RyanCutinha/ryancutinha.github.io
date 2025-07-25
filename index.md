@@ -4,10 +4,9 @@ title: TitanBot Robotics Project!
 ---
 
 # About Me 
-<figure>
-    <img src="/assets/css/images/About Me Picture.JPG" alt="A beautiful landscape" class="full-width-image">
-    <figcaption>I am a rising senior at North Creek High School interested in engineering. Some of my hobbies are building, playing sports, and reading books. I enjoy spending time outdoors, especially hiking and going to parks.</figcaption>
-</figure>
+I am a rising senior at North Creek High School interested in engineering. Some of my hobbies are building, playing sports, and reading books. I enjoy spending time outdoors, especially hiking and going to parks.
+
+![Personal Picture](/assets/css/images/About%20Me%20Picture.JPG){: .my-custom-image-class}
 
 # Machine Designs
 
@@ -15,25 +14,25 @@ The machine that I have built is a small robotic device that can move around pla
 
 The design of the first machine is shown below. 
 
-![First Machine Design](/assets/css/images/Machine%20Designs%20-%201.png)
+![First Machine Design](/assets/css/images/Machine%20Designs%20-%201.png){: .my-custom-image-class}
 
 Some pros and cons of the first machine are shown below. 
 
-![First Machine Table](/assets/css/images/First%20Machine%20Table.png)
+![First Machine Table](/assets/css/images/First%20Machine%20Table.png){: .my-custom-image-class}
 
 The design of the second machine is shown below. 
 
-![Second Machine Design](/assets/css/images/Machine%20Design%20-%202.png) 
+![Second Machine Design](/assets/css/images/Machine%20Design%20-%202.png){: .my-custom-image-class}
 
 The pros of the second machine are shown below.
 
-![Second Machine Table](/assets/css/images/Second%20Machine%20Table.png)
+![Second Machine Table](/assets/css/images/Second%20Machine%20Table.png){: .my-custom-image-class}
 
 # Current Design
 
 The current design is neat and organized with zip-wries to prevent entanglement and has an open center for easy access to parts. My machine also has a lower chassis which helps it have a lower center of mass to prevent tipping. The control hub and the expansion hub are mounted on the side of the machine so that wiring is distributed to each side. One side of the claw is opened so the linear slide doesn't need to carry a lot of weight. The camera is mounted high to see over the motor and get a better view of the signal. I have also added additional weight to the back to evenly distribute weight.
 
-![Current Design](/assets/css/images/Current%20Design%20Picture.png) 
+![Current Design](/assets/css/images/Current%20Design%20Picture.png){: .my-custom-image-class}
 
 # Software
 
@@ -51,5 +50,10 @@ When driving, I noticed that some parts of the machine were moving even though I
 
 While building, I used 4 drive motor encoders, 1 linear slide motor encoder, 1 InHub Gryo, 1 InHub Accelerometer, and 1 Webcam. The drive motor encoders helped the machine to move into its positions, the slide motor encoder moved the arm into position,  the InHub gryo ensures that the machine turns accurately and stays straight, the accelerometer ensured that the machine accelerated properly, and the Webcam is used to scan a signal to start moving.
 
+Some of the sensors used are shown below. 
+
+![Drive Motor Encoder](/assets/css/images/Drive%20Metal%20Encoder.jpg){: .my-custom-image-class}
+
+![Linear Slide Motor Encoder](/assets/css/images/Linear%20slide%20motor%20encoder.png){: .my-custom-image-class}
 
 [def]: /assets/css/images/Current%20Design%20Picture.png
