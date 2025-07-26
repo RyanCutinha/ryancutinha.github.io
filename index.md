@@ -22,15 +22,15 @@ The machine that we have built is a small robotic device that can move around pl
 
 ![First Machine Design](/assets/css/images/Machine%20Designs%20-%201.png){: .my-custom-image-class}
 
-Some pros and cons of the first machine are shown below. 
+<p class="center-text">Some pros and cons of the first machine are shown below.</p>
 
 ![First Machine Table](/assets/css/images/First%20Machine%20Table.png){: .my-custom-image-class}
 
-The design of the second machine is shown below. 
+<p class="center-text">The design of the second machine is shown below.</p>
 
 ![Second Machine Design](/assets/css/images/Machine%20Design%20-%202.png){: .my-custom-image-class}
 
-The pros of the second machine are shown below.
+<p class="center-text">The pros of the second machine are shown below.</p>
 
 ![Second Machine Table](/assets/css/images/Second%20Machine%20Table.png){: .my-custom-image-class}
 
@@ -51,15 +51,14 @@ When driving, we noticed that some parts of the machine were moving even though 
 
 While building, we used 4 drive motor encoders, 1 linear slide motor encoder, 1 InHub Gryo, 1 InHub Accelerometer, and 1 Webcam. The drive motor encoders helped the machine to move into its positions, the slide motor encoder moved the arm into position,  the InHub gryo ensures that the machine turns accurately and stays straight, the accelerometer ensured that the machine accelerated properly, and the Webcam is used to scan a signal to start moving.
 
-Some of the sensors used are shown below. 
+<p class="center-text">Some of the sensors used are shown below.</p> 
 
 ![Drive Motor Encoder](/assets/css/images/Drive%20Metal%20Encoder.jpg){: .my-custom-image-class}
-The sensor shown above is called the Drive motor encoder. It was used to move the machine around so that we could go through the mazes. 
+<p class="center-text">The sensor shown above is called the Drive motor encoder. It was used to move the machine around so that we could go through the mazes.</p> 
 
 
 ![Linear Slide Motor Encoder](/assets/css/images/Linear%20slide%20motor%20encoder.png){: .my-custom-image-class}
-The sensor shown above is called the Linear Slide Motor Encoder. It was used to move the arm up and down so that it can pick up objects.
-
+<p class="center-text">The sensor shown above is called the Linear Slide Motor Encoder. It was used to move the arm up and down so that it can pick up objects.</p>
 
 
 ## About Me 
