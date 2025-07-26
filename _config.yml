@@ -2,5 +2,9 @@ remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jekyll-remote-theme
 title: TitanBot Robotics Project
-description: I worked on a robotics project with a team that involved building a robotic machine that can navigate through mazes and perform certain tasks. I am interested in robotics, and building this robotic machine has helped to increase my knowledge of the various aspects of engineering.
+description: 
 
+collections:
+  pages:
+    output: true
+    permalink: /:name/ 
