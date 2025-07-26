@@ -4,6 +4,7 @@ plugins:
 title: TitanBot Robotics Project
 description:
 
+
 collections:
   pages:
     output: true
