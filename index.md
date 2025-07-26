@@ -4,16 +4,16 @@ title: TitanBot Robotics Project!
 ---
 
 
-# Background 
+## Background 
 I worked on a robotics project with a team that involved building a robotic machine that can navigate through mazes and perform certain tasks. I am interested in robotics, and building this robotic machine has helped to increase my knowledge of the various aspects of engineering.
 
-# Current Design
+## Current Design
 
 The current design is neat and organized with zip-wries to prevent entanglement and has an open center for easy access to parts. Our machine also has a lower chassis which helps it have a lower center of mass to prevent tipping. The control hub and the expansion hub are mounted on the side of the machine so that wiring is distributed to each side. One side of the claw is opened so the linear slide doesn't need to carry a lot of weight. The camera is mounted high to see over the motor and get a better view of the signal. I have also added additional weight to the back to evenly distribute weight.
 
 ![Current Design](/assets/css/images/Current%20Design%20Picture.png){: .my-custom-image-class}
 
-# Machine Designs
+## Machine Designs
 
 The machine that we have built is a small robotic device that can move around places autonomously and with a controller. There were several designs that we used over the course of my project, and each had its pros and cons. Each design had four wheels, a base, and an arm to pick up objects as they moved around. For most of the project, I controlled the machine via joysticks that were connected to an electronic device that sent signals to the machine. Additionally, there were several sensors that I also included so that I could code the machine and move it to several positions, which allowed me to control the machine hands-free. 
 
@@ -33,7 +33,7 @@ The pros of the second machine are shown below.
 
 ![Second Machine Table](/assets/css/images/Second%20Machine%20Table.png){: .my-custom-image-class}
 
-# Software
+## Software
 
 We decided to have 2 parts in the software of our machine. The first part was designing the autonomus part of the robot, and the second was having TeleOps incorporated into the software. 
 
@@ -46,7 +46,7 @@ For the autonomus path, turning the robot while it was moving would be efficient
 When driving, we noticed that some parts of the machine were moving even though I had not touched the joystick. To combat this, I included a 'dead zone' on the joystick, which is the area in which the machine does nothing. I also coded preset positions for the arm of the robot, which allowed the arm to go different heights more efficiently and accurately. While picking up certain objects, I had to reduce the speed of the robot to 40%, which allowed for more precise movements overall.
 
 
-# Sensors used
+## Sensors used
 
 While building, we used 4 drive motor encoders, 1 linear slide motor encoder, 1 InHub Gryo, 1 InHub Accelerometer, and 1 Webcam. The drive motor encoders helped the machine to move into its positions, the slide motor encoder moved the arm into position,  the InHub gryo ensures that the machine turns accurately and stays straight, the accelerometer ensured that the machine accelerated properly, and the Webcam is used to scan a signal to start moving.
 
@@ -61,7 +61,7 @@ The sensor shown above is called the Linear Slide Motor Encoder. It was used to 
 
 
 
-# About Me 
+## About Me 
 
 I am a rising senior at North Creek High School interested in engineering. Some of my hobbies are building, playing sports, and reading books. I enjoy spending time outdoors, especially hiking and going to parks.
 

@@ -33,7 +33,10 @@ body {
 }
 
 .inner {
-    display: block; 
     text-align: center;
-    margin: 0 auto; 
+    width: 100%; 
+}
+
+.project_title {
+    display: inline-block; 
 }
