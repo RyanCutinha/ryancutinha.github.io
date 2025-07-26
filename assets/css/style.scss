@@ -31,3 +31,11 @@ body {
     padding-left: 0; 
     padding-right: 0; 
 }
+
+
+
+.project_title {
+    display: block; /* Ensure it takes up its own line */
+    text-align: center;
+    margin: 0 auto; /* This helps center block elements with a width */
+}
