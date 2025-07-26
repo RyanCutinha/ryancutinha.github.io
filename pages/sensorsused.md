@@ -4,7 +4,7 @@ title: Sensors Used
 permalink: /sensorsused/
 ---
 
-# Sensors used
+## Sensors used
 
 While building, we used 4 drive motor encoders, 1 linear slide motor encoder, 1 InHub Gryo, 1 InHub Accelerometer, and 1 Webcam. The drive motor encoders helped the machine to move into its positions, the slide motor encoder moved the arm into position,  the InHub gryo ensures that the machine turns accurately and stays straight, the accelerometer ensured that the machine accelerated properly, and the Webcam is used to scan a signal to start moving.
 

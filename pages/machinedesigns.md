@@ -4,7 +4,7 @@ title: Machine Designs
 permalink: /machinedesigns/
 ---
 
-# Machine Designs
+## Machine Designs
 
 The machine that we have built is a small robotic device that can move around places autonomously and with a controller. There were several designs that we used over the course of my project, and each had its pros and cons. Each design had four wheels, a base, and an arm to pick up objects as they moved around. For most of the project, I controlled the machine via joysticks that were connected to an electronic device that sent signals to the machine. Additionally, there were several sensors that I also included so that I could code the machine and move it to several positions, which allowed me to control the machine hands-free. 
 
