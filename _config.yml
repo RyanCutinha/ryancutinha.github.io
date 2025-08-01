@@ -5,7 +5,9 @@ title: TitanBot Robotics Project
 description:
 
 
-collections:
-  pages:
-    output: true
-    permalink: /:name/ 
+header_pages:
+  - pages/currentdesign.md
+  - pages/machinedesign.md
+  - pages/software.md
+  - pages/sensors.md
+  - pages/about.md
