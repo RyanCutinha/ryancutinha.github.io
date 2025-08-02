@@ -16,3 +16,6 @@ While building, we used 4 drive motor encoders, 1 linear slide motor encoder, 1 
 
 ![Linear Slide Motor Encoder](/assets/css/images/Linear%20slide%20motor%20encoder.png){: .my-custom-image-class}
 <p class="center-text">The sensor shown above is called the Linear Slide Motor Encoder. It was used to move the arm up and down so that it can pick up objects.</p>
+
+
+[Go Back Here](index)
