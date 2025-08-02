@@ -7,6 +7,14 @@ title: TitanBot Robotics Project!
 ## Background 
 I worked on a robotics project with a team that involved building a robotic machine that can navigate through mazes and perform certain tasks. I am interested in robotics, and building this robotic machine has helped to increase my knowledge of the various aspects of engineering.
 
+## Table of Contents
+To view each individual aspect of my project the table of Contents is attached below
+1. [Current Design](/pages/currentdesign)
+2. [Machine Designs](/pages/machinedesign)
+3. [Software](/pages/software)
+4. [Sensors Used](/pages/sensors)
+5. [About Me](/pages/about)
+
 ## Current Design
 
 The current design is neat and organized with zip-wries to prevent entanglement and has an open center for easy access to parts. Our machine also has a lower chassis which helps it have a lower center of mass to prevent tipping. The control hub and the expansion hub are mounted on the side of the machine so that wiring is distributed to each side. One side of the claw is opened so the linear slide doesn't need to carry a lot of weight. The camera is mounted high to see over the motor and get a better view of the signal. I have also added additional weight to the back to evenly distribute weight.
@@ -47,7 +55,7 @@ For the autonomus path, turning the robot while it was moving would be efficient
 When driving, we noticed that some parts of the machine were moving even though I had not touched the joystick. To combat this, I included a 'dead zone' on the joystick, which is the area in which the machine does nothing. I also coded preset positions for the arm of the robot, which allowed the arm to go different heights more efficiently and accurately. While picking up certain objects, I had to reduce the speed of the robot to 40%, which allowed for more precise movements overall.
 
 
-## Sensors used
+## Sensors Used
 
 While building, we used 4 drive motor encoders, 1 linear slide motor encoder, 1 InHub Gryo, 1 InHub Accelerometer, and 1 Webcam. The drive motor encoders helped the machine to move into its positions, the slide motor encoder moved the arm into position,  the InHub gryo ensures that the machine turns accurately and stays straight, the accelerometer ensured that the machine accelerated properly, and the Webcam is used to scan a signal to start moving.
 
