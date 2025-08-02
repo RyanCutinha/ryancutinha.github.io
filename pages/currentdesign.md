@@ -10,4 +10,3 @@ The current design is neat and organized with zip-wries to prevent entanglement 
 
 ![Current Design](/assets/css/images/Current%20Design%20Picture.png){: .my-custom-image-class}
 
-[Go Back Here](index)

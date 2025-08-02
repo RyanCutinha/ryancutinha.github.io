@@ -25,4 +25,3 @@ The machine that we have built is a small robotic device that can move around pl
 
 ![Second Machine Table](/assets/css/images/Second%20Machine%20Table.png){: .my-custom-image-class}
 
-[Go Back Here](index)
