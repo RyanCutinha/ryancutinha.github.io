@@ -13,13 +13,12 @@
               | where_exp:"p", "p.path contains 'pages/'"
               | sort:"nav_order" %}
             {% for p in nav_pages %}
-              <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+              {% if p.url != '/' and p.name != 'index.md' %}
+                <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+              {% endif %}
             {% endfor %}
           </ul>
         </li>
-
-        <!-- Example of another static link -->
-        <li><a href="{{ '/about/' | relative_url }}">About</a></li>
       </ul>
     </nav>
   </div>
@@ -50,9 +49,6 @@
   border: 1px solid #ddd;
   min-width: 180px;
   z-index: 1000;
-}
-.dropdown-menu li {
-  padding: 0;
 }
 .dropdown-menu li a {
   display: block;

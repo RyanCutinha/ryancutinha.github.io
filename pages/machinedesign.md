@@ -1,6 +1,7 @@
 ---
 layout: default
 title: TitanBot Robotics Project!
+nav_order: 2
 permalink: /pages/machinedesign
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: default
+nav_order: 5
 title: TitanBot Robotics Project!
 permalink: /pages/about
 ---
