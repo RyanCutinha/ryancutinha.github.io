@@ -4,6 +4,18 @@ plugins:
 title: TitanBot Robotics Project
 description:
 
+collections:
+  resources:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: "pages"
+      type: "pages"
+    values:
+      layout: work
+
 
 header_pages:
   - pages/currentdesign.md

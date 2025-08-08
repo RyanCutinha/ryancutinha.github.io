@@ -1,6 +1,7 @@
 ---
 layout: default
 title: TitanBot Robotics Project!
+permalink: /pages/index
 ---
 
 
