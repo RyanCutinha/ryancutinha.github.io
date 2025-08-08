@@ -1,17 +1,54 @@
-<ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-  <li class="nav-item">
-    <a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/">Home</a>
-  </li>
-  <li class="nav-item dropdown">
-    <a class="nav-link dropdown-toggle" href="#" id="projectsDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-      Projects
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="projectsDropdown">
-      <li><a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}/pages/currentdesign.html">Current Design</a></li>
-      <li><a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}/pages/machinedesign.html">Machine Design</a></li>
-      <li><a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}/pages/software.html">Software</a></li>
-      <li><a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}/pages/index.html">Sensors Used</a></li>
-      <li><a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}/pages/about.html">About Me</a></li>
+<ul class="nav">
+  <!-- Home Link -->
+  <li><a href="{{ '/' | relative_url }}">Home</a></li>
+
+  <!-- Projects Dropdown -->
+  <li class="dropdown">
+    <a href="#">Projects</a>
+    <ul class="dropdown-menu">
+      {% assign nav_pages = site.pages
+        | where_exp:"p", "p.path contains 'pages/'"
+        | sort: "nav_order" %}
+      {% for p in nav_pages %}
+        {% if p.url != '/' and p.name != 'index.md' %}
+          <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+        {% endif %}
+      {% endfor %}
     </ul>
   </li>
-  </ul>
+</ul>
+
+<style>
+.nav {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+.nav > li {
+  position: relative;
+  margin-right: 20px;
+}
+.nav > li > a {
+  text-decoration: none;
+}
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  background: white;
+  list-style: none;
+  padding: 5px 0;
+  margin: 0;
+  border: 1px solid #ddd;
+  min-width: 180px;
+  z-index: 1000;
+}
+.dropdown-menu li a {
+  display: block;
+  padding: 8px 15px;
+  text-decoration: none;
+}
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+</style>
